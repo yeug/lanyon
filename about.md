@@ -15,4 +15,4 @@ Some other organizations I have worked for or with:
 A few recent talks and articles:
 Full Future Color, Google Next Gen, Asia Society, New Context Conference
 
-You can reach me via: Email, [Twitter]((https://twitter.com/eugeneyi)), [Github](https://github.com/yeug/)
+You can reach me via: [Email](<a href="mailto:tim@timhwang.org"> eugene@eugeneyi.org</a>), [Twitter]((https://twitter.com/eugeneyi)), [Github](https://github.com/yeug/)
