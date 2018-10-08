@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi. I am Eugene. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I’m an entrepreneur and tech policymaker exploring ways to foster a healthy public sphere. 
 
-There are currently two themes built on Poole:
+I co-founded [Cortico](https://cortico.ai) from the [Laboratory for Social Machines](https://www.media.mit.edu/groups/social-machines/overview/) at the MIT Media Lab, and previously served as the Head of Asia Public Policy at Twitter.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Some other organizations I have worked for or with: 
+[U.S. Department of Defense](https://policy.defense.gov/), [U.S. State Department](https://www.state.gov/discoverdiplomacy/explorer/places/170172.htm), [Tencent](https://careers.tencent.com/global/us/index.html), [Aspen Institute](https://www.aspeninstitute.org/programs/socrates-program/), Google, Sirius XM, [Asia Society](https://asiasociety.org/asia21-young-leaders/class-2017), Wall Street Journal, The Associated Press, Politico, Alabama Media Group, [Princeton-Harvard China and the World Program](https://cwp.princeton.edu/people/eugene-yi), Science Club for Girls, Girls Who Code
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+A few recent talks and articles:
+Full Future Color, Google Next Gen, Asia Society, New Context Conference
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+You can reach me via: Email, [Twitter]((https://twitter.com/eugeneyi)), [Github](https://github.com/yeug/)
