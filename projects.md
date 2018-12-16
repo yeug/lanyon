@@ -15,4 +15,4 @@ title: Projects
 
 
 
-  You can find my blog posts on [Medium](https://medium.com/@eugeneyi). Thanks for reading!
+You can find my blog posts on [Medium](https://medium.com/@eugeneyi). Thanks for reading!
